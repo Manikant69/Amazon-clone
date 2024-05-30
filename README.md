@@ -4,6 +4,9 @@ This project is an Amazon clone website built using `HTML` and `CSS`. It mimics 
 
 ## Screenshots
 ![image](https://github.com/Manikant69/Amazon-clone/assets/100368724/f285062a-1d88-485d-8bf9-267cd7ff6a24)
+![image](https://github.com/Manikant69/Amazon-clone/assets/100368724/d2698021-95d0-4eaa-aaef-5db13ddaa2b5)
+![image](https://github.com/Manikant69/Amazon-clone/assets/100368724/9fcc4b98-9048-47c4-83c2-02f0c7a5410d)
+
 
 
 ## Features
