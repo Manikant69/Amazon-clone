@@ -2,6 +2,10 @@
 ## Description
 This project is an Amazon clone website built using `HTML` and `CSS`. It mimics the look and feel of the Amazon e-commerce platform, showcasing product listings, a shopping cart, and checkout functionality.
 
+## Screenshots
+![image](https://github.com/Manikant69/Amazon-clone/assets/100368724/f285062a-1d88-485d-8bf9-267cd7ff6a24)
+
+
 ## Features
 - Product listings with images, titles, prices, and descriptions.
 - Add products to the shopping cart.
@@ -25,4 +29,4 @@ git clone https://github.com/manikant69/amazon-clone.git
 - Navigate to the cart page to review your selections.
 - Proceed to checkout.
 
-## Screenshots
+
